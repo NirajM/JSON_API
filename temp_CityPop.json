@@ -1,0 +1,21 @@
+{
+    "City":
+    [
+        {
+        "CityName":"Pune",
+        "Population":"35"
+        },
+        {
+        "CityName":"Karad",
+        "Population":"10"
+        },
+        {
+        "CityName":"Kolp",
+        "Population":"25"
+        },
+        {
+        "CityName":"Mumbai",
+        "Population":"45"
+        }
+    ]
+}
