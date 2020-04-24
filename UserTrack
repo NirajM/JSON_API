@@ -1,0 +1,8 @@
+{
+    "Level_1_Users":["nmangalvedhekar@ethosh.com","hrushup@gmail.com","test@ethosh.com"],
+    "Level_2_Users":["online@ethosh.com"],
+    "Level_3_Users":[],
+    "Level_1_Ready":true,
+    "Level_2_Ready":false,
+    "Level_3_Ready":false
+}
