@@ -1,0 +1,37 @@
+{
+    "Questions":
+    [
+        {
+        "Question":"Colour of Sky?",
+        "Option1":"pink",
+        "Option2":"black",
+        "Option3":"blue",
+        "Option4":"green",
+        "Correct":"blue"
+        },
+        {
+        "Question":"2+2",
+        "Option1":"1",
+        "Option2":"9",
+        "Option3":"2",
+        "Option4":"4",
+        "Correct":"4"
+        },
+        {
+        "Question":"Is Peacock a bird?",
+        "Option1":"No",
+        "Option2":"Yes",
+        "Option3":"Insect",
+        "Option4":"may be",
+        "Correct":"Yes"
+        },
+        {
+        "Question":"Sun sets at",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        }
+    ]
+}
