@@ -1,0 +1,85 @@
+{
+    "Questions":
+    [
+        {
+        "Question":"When was Ethosh founded?",
+        "Option1":"2006",
+        "Option2":"2007",
+        "Option3":"2005",
+        "Option4":"2008",
+        "Correct":"2007"
+        },
+        {
+        "Question":"Where was Ethosh's second office?",
+        "Option1":"1",
+        "Option2":"9",
+        "Option3":"2",
+        "Option4":"4",
+        "Correct":"4"
+        },
+        {
+        "Question":"Who was the 1st employee of Ethosh?",
+        "Option1":"No",
+        "Option2":"Yes",
+        "Option3":"Insect",
+        "Option4":"may be",
+        "Correct":"Yes"
+        },
+        {
+        "Question":"Who framed the name Ethosh?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"What was Ethosh's employee strength in 2018?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"When did Ethosh move to the current office?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"What service Ethosh doesn't offer?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"Did Ethosh have an office in Mumbai?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"Where is Ethosh's US office?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        },
+        {
+        "Question":"How many cabins Ethosh's current office has?",
+        "Option1":"West",
+        "Option2":"East",
+        "Option3":"North",
+        "Option4":"South",
+        "Correct":"West"
+        }
+    ]
+}
