@@ -1,6 +1,6 @@
 {
     "Level_1_Users":["level1@ethosh.com","nmangalvedhekar@ethosh.com","rahul@ethosh.com"],
-    "Level_2_Users":["level2@ethosh.com", "niraj@ethosh.com"],
+    "Level_2_Users":["level2@ethosh.com","niraj@ethosh.com"],
     "Level_3_Users":["level3@ethosh.com"],
     "Level_1_Ready":false,
     "Level_2_Ready":true,
