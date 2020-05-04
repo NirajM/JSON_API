@@ -2,36 +2,84 @@
     "Questions":
     [
         {
-        "Question":"Which of the following would be the result of a spinal lesion at the level of C7?",
-        "Option1":"a reduced brachioradialis reflex",
-        "Option2":"weakness of finger flexion",
-        "Option3":"loss of sensation over the lateral aspect of the arm",
-        "Option4":"winging of the scapula",
-        "Correct":"weakness of finger flexion"
+        "Question":"When was Ethosh founded?",
+        "Option1":"Dec 2011",
+        "Option2":"Sept 2011",
+        "Option3":"Jan 2012",
+        "Option4":"June 2011",
+        "Correct":"Sept 2011"
         },
         {
-        "Question":"Which of the following regarding the anatomy of the heart is true?",
-        "Option1":"The aortic valve is tricuspid.",
-        "Option2":"The ascending aorta is entirely outside the pericardial sac.",
-        "Option3":"The pulmonary trunk lies anterior to the ascending aorta.",
-        "Option4":"The right atrium is posterior to the left atrium.",
-        "Correct":"The aortic valve is tricuspid."
+        "Question":"Where was Ethosh's second office?",
+        "Option1":"Deccan Gymkhana",
+        "Option2":"Pan mala",
+        "Option3":"Kothrud",
+        "Option4":"SB Road",
+        "Correct":"Kothrud"
         },
         {
-        "Question":"Which ONE of the following would be expected in a third nerve palsy?",
-        "Option1":"Enophthalmos",
-        "Option2":"Constricted pupil",
-        "Option3":"Unreactive pupil to light",
-        "Option4":"Increased lacrimation",
-        "Correct":"Unreactive pupil to light"
+        "Question":"Who was the 1st employee of Ethosh?",
+        "Option1":"Gaurang",
+        "Option2":"Rahul",
+        "Option3":"Jitendra",
+        "Option4":"Azim",
+        "Correct":"Gaurang"
         },
         {
-        "Question":"Which of the following anatomical considerations is correct:",
-        "Option1":"central scotoma occurs early in papilloedema",
-        "Option2":"in cortical blindness pupillary reactions are abnormal",
-        "Option3":"opticokinetic nystagmus is found with bilateral infarction",
-        "Option4":"optic chiasm lesions characteristically produce a bitemporal hemianopia",
-        "Correct":"optic chiasm lesions characteristically produce a bitemporal hemianopia"
+        "Question":"Who framed the name Ethosh?",
+        "Option1":"Rahul",
+        "Option2":"Sucheta",
+        "Option3":"Jitendra",
+        "Option4":"Prakash",
+        "Correct":"Jitendra"
+        },
+        {
+        "Question":"What was Ethosh's highest employee strength in 2018?",
+        "Option1":"45",
+        "Option2":"42",
+        "Option3":"46",
+        "Option4":"41",
+        "Correct":"46"
+        },
+        {
+        "Question":"When did Ethosh move to the current office?",
+        "Option1":"April 2017",
+        "Option2":"March 2017",
+        "Option3":"March 2018",
+        "Option4":"April 2018",
+        "Correct":"March 2017"
+        },
+        {
+        "Question":"What service Ethosh doesn't offer?",
+        "Option1":"VR",
+        "Option2":"Animation",
+        "Option3":"eDM",
+        "Option4":"Tele-marketing",
+        "Correct":"Tele-marketing"
+        },
+        {
+        "Question":"Where did Ethosh not have office out of Pune?",
+        "Option1":"Mumbai",
+        "Option2":"Delhi",
+        "Option3":"Pittsburg",
+        "Option4":"San Diego",
+        "Correct":"Delhi"
+        },
+        {
+        "Question":"Where is Ethosh's current US office?",
+        "Option1":"New York",
+        "Option2":"Pittsburg",
+        "Option3":"San Jose",
+        "Option4":"Los Angeles",
+        "Correct":"Pittsburg"
+        },
+        {
+        "Question":"How many cabins Ethosh's current office has?",
+        "Option1":"4",
+        "Option2":"2",
+        "Option3":"5",
+        "Option4":"6",
+        "Correct":"5"
         }
     ]
 }
