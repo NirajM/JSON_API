@@ -7,6 +7,7 @@
     "akhan@ethosh.com",
     "bvanarse@ethosh.com",
     "ckarmarkar@ethosh.com",
+    "gdani@ethosh.com"
     "gkurkute@ethosh.com",
     "gmahale@ethosh.com",
     "gawagan@ethosh.com",
@@ -53,7 +54,7 @@
   ],
   "Level_2_Users": [],
   "Level_3_Users": [],
-  "Level_1_Ready": true,
+  "Level_1_Ready": false,
   "Level_2_Ready": false,
   "Level_3_Ready": false,
   "Level_1_Name":"Know Your Company",
