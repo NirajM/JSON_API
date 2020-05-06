@@ -2,36 +2,84 @@
     "Questions":
     [
         {
-        "Question":"President of US",
-        "Option1":"Clinton",
-        "Option2":"Trump",
-        "Option3":"Kennedy",
-        "Option4":"Bush",
-        "Correct":"Trump"
+        "Question":"Who was Ethosh's 1st paid customer?",
+        "Option1":"Omkar Engineering",
+        "Option2":"Ameya Transmission",
+        "Option3":"Crompton Greaves",
+        "Option4":"Persistent",
+        "Correct":"Omkar Engineering"
         },
         {
-        "Question":"1+3",
-        "Option1":"1",
-        "Option2":"9",
-        "Option3":"2",
-        "Option4":"4",
-        "Correct":"4"
+        "Question":"Who was the 1st US customer of Ethosh?",
+        "Option1":"Agilent",
+        "Option2":"Eaton",
+        "Option3":"Biosensing",
+        "Option4":"Bayer",
+        "Correct":"Eaton"
         },
         {
-        "Question":"Capital of India",
-        "Option1":"Delhi",
-        "Option2":"Mumbai",
-        "Option3":"Chennai",
-        "Option4":"Surat",
-        "Correct":"Delhi"
+        "Question":"Who was the 1st VR customer of Ethosh?",
+        "Option1":"Bayer",
+        "Option2":"Agilent",
+        "Option3":"Nanostring",
+        "Option4":"Indian Navy",
+        "Correct":"Indian Navy"
         },
         {
-        "Question":"Sun is a...",
-        "Option1":"Planet",
-        "Option2":"Satellite",
-        "Option3":"Star",
-        "Option4":"Comet",
-        "Correct":"Star"
+        "Question":"What industry Agilent is in?",
+        "Option1":"Labtech",
+        "Option2":"Medtech",
+        "Option3":"Life sciences",
+        "Option4":"Agriculture",
+        "Correct":"Labtech"
+        },
+        {
+        "Question":"For which client have we done maximum 3D videos?",
+        "Option1":"Crompton Greaves",
+        "Option2":"Bayer",
+        "Option3":"Agilent",
+        "Option4":"Kirloskar",
+        "Correct":"Crompton Greaves"
+        },
+        {
+        "Question":"For which project did Ethosh win CII award?",
+        "Option1":"CG Maintenance Guides",
+        "Option2":"Navy VR",
+        "Option3":"Agilent AR",
+        "Option4":"Kirloskar Roadrailer",
+        "Correct":"Navy VR"
+        },
+        {
+        "Question":"Which was Ethosh's 1st AR app that got launched on Appstore?",
+        "Option1":"Agilent AR",
+        "Option2":"Bayer Flex App",
+        "Option3":"Zivira AR App",
+        "Option4":"Pepsi AR",
+        "Correct":"Zivira AR App"
+        },
+        {
+        "Question":"Where does Ethosh not have a client?",
+        "Option1":"US",
+        "Option2":"India",
+        "Option3":"Singapore",
+        "Option4":"Australia",
+        "Correct":"Singapore"
+        },
+        {
+        "Question":"For which of the following services Agilent is yet to hire Ethosh?",
+        "Option1":"3D videos",
+        "Option2":"VR",
+        "Option3":"AR",
+        "Option4":"Veeva",
+        "Correct":"Veeva"
+        },
+        {
+        "Question":"Why our clients love us?",
+        "Option1":"Good looking people",
+        "Option2":"Sweet talkers",
+        "Option3":"Young crowd",
+        "Option4":"Quality",
+        "Correct":"Quality"
         }
     ]
 }
