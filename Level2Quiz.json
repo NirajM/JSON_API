@@ -7,7 +7,7 @@
         "Option2":"Sucheta",
         "Option3":"Harshad",
         "Option4":"Pushkar",
-        "Correct":"Kiran"
+        "Correct":"Harshad"
         },
         {
         "Question":"Who idolize Gautam Buddha?",
@@ -39,7 +39,7 @@
         "Option2":"11",
         "Option3":"14",
         "Option4":"10",
-        "Correct":"14"
+        "Correct":"13"
         },
         {
         "Question":"What is Pushkars additional skills that lets him judge people?",
@@ -63,7 +63,7 @@
         "Option2":"Partnerships",
         "Option3":"Healthcare",
         "Option4":"LabTech",
-        "Correct":"Partnerships"
+        "Correct":"Healthcare"
         },
         {
         "Question":"What skill Harshad is not good at?",
@@ -79,7 +79,7 @@
         "Option2":"Sucheta",
         "Option3":"Pushkar",
         "Option4":"Kiran",
-        "Correct":"Sucheta"
+        "Correct":"Kiran"
         },
         {
         "Question":"What is Suchetas new role?",
@@ -95,7 +95,7 @@
         "Option2":"Sucheta",
         "Option3":"Harshad",
         "Option4":"Kiran",
-        "Correct":"Kiran"
+        "Correct":"Harshad"
         }
     ]
 }
