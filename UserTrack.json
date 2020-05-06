@@ -52,10 +52,10 @@
     "aagarwal@ethosh.com",
     "kvelapure@ethosh.com"
   ],
-  "Level_2_Users": [],
+  "Level_2_Users": ["p1@level2.com","p2@level2.com"],
   "Level_3_Users": [],
   "Level_1_Ready": false,
-  "Level_2_Ready": false,
+  "Level_2_Ready": true,
   "Level_3_Ready": false,
   "Level_1_Name":"Know Your Company",
   "Level_2_Name":"Know Your Leaders",
