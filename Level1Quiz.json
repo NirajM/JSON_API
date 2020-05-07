@@ -2,84 +2,100 @@
     "Questions":
     [
         {
-        "Question":"When was Ethosh founded?",
-        "Option1":"Dec 2011",
-        "Option2":"Sept 2011",
-        "Option3":"Jan 2012",
-        "Option4":"June 2011",
-        "Correct":"Sept 2011"
+        "Question":"Who wants to take Charlize Theron to a dinner date?",
+        "Option1":"Kiran",
+        "Option2":"Sucheta",
+        "Option3":"Harshad",
+        "Option4":"Pushkar",
+        "Correct":"Harshad"
         },
         {
-        "Question":"Where was Ethosh's second office?",
-        "Option1":"Deccan Gymkhana",
-        "Option2":"Pan mala",
-        "Option3":"Kothrud",
-        "Option4":"SB Road",
-        "Correct":"Kothrud"
+        "Question":"Who idolize Gautam Buddha?",
+        "Option1":"Rahul ",
+        "Option2":"Pushkar",
+        "Option3":"Kiran",
+        "Option4":"Harshad",
+        "Correct":"Harshad"
         },
         {
-        "Question":"Who was the 1st employee of Ethosh?",
-        "Option1":"Gaurang",
-        "Option2":"Rahul",
-        "Option3":"Jitendra",
-        "Option4":"Azim",
-        "Correct":"Gaurang"
+        "Question":"What was the purpose of initials - rd and jd?",
+        "Option1":"File Extensions",
+        "Option2":"Cool Dudes",
+        "Option3":"Founders",
+        "Option4":"Famous Musicians",
+        "Correct":"File Extensions"
         },
         {
-        "Question":"Who framed the name Ethosh?",
+        "Question":"Who is Non-engineer among our team?",
+        "Option1":"Rahul",
+        "Option2":"Kiran",
+        "Option3":"Harshad",
+        "Option4":"Pushkar",
+        "Correct":"Pushkar"
+        },
+        {
+        "Question":"How many years did Rahul live in the USA?",
+        "Option1":"13",
+        "Option2":"11",
+        "Option3":"14",
+        "Option4":"10",
+        "Correct":"13"
+        },
+        {
+        "Question":"What is Pushkars additional skills that lets him judge people?",
+        "Option1":"Acting",
+        "Option2":"Directing",
+        "Option3":"NLP",
+        "Option4":"Dieting",
+        "Correct":"NLP"
+        },
+        {
+        "Question":"What does Kiran say more than any other word?",
+        "Option1":"You know",
+        "Option2":"Essentially",
+        "Option3":"Really",
+        "Option4":"Hmmm",
+        "Correct":"Essentially"
+        },
+        {
+        "Question":"What business unit does Kiran lead?",
+        "Option1":"Manufacturing",
+        "Option2":"Partnerships",
+        "Option3":"Healthcare",
+        "Option4":"LabTech",
+        "Correct":"Healthcare"
+        },
+        {
+        "Question":"What skill Harshad is not good at?",
+        "Option1":"Quality",
+        "Option2":"Creativity",
+        "Option3":"Communication",
+        "Option4":"Dancing",
+        "Correct":"Dancing"
+        },
+        {
+        "Question":"Who wants to roam age of dinosaurs?",
         "Option1":"Rahul",
         "Option2":"Sucheta",
-        "Option3":"Jitendra",
-        "Option4":"Prakash",
-        "Correct":"Jitendra"
+        "Option3":"Pushkar",
+        "Option4":"Kiran",
+        "Correct":"Kiran"
         },
         {
-        "Question":"What was Ethosh's highest employee strength in 2018?",
-        "Option1":"45",
-        "Option2":"42",
-        "Option3":"46",
-        "Option4":"41",
-        "Correct":"46"
+        "Question":"What is Suchetas new role?",
+        "Option1":"HR",
+        "Option2":"Finance",
+        "Option3":"Operations",
+        "Option4":"Marketing Communication",
+        "Correct":"Marketing Communication"
         },
         {
-        "Question":"When did Ethosh move to the current office?",
-        "Option1":"April 2017",
-        "Option2":"March 2017",
-        "Option3":"March 2018",
-        "Option4":"April 2018",
-        "Correct":"March 2017"
-        },
-        {
-        "Question":"What service Ethosh doesn't offer?",
-        "Option1":"VR",
-        "Option2":"Animation",
-        "Option3":"eDM",
-        "Option4":"Tele-marketing",
-        "Correct":"Tele-marketing"
-        },
-        {
-        "Question":"Where did Ethosh not have office out of Pune?",
-        "Option1":"Mumbai",
-        "Option2":"Delhi",
-        "Option3":"Pittsburg",
-        "Option4":"San Diego",
-        "Correct":"Delhi"
-        },
-        {
-        "Question":"Where is Ethosh's current US office?",
-        "Option1":"New York",
-        "Option2":"Pittsburg",
-        "Option3":"San Jose",
-        "Option4":"Los Angeles",
-        "Correct":"Pittsburg"
-        },
-        {
-        "Question":"How many cabins Ethosh's current office has?",
-        "Option1":"4",
-        "Option2":"2",
-        "Option3":"5",
-        "Option4":"6",
-        "Correct":"5"
+        "Question":"Who joined Ethosh between 2015 June to 2017 June?",
+        "Option1":"Pushkar",
+        "Option2":"Sucheta",
+        "Option3":"Harshad",
+        "Option4":"Kiran",
+        "Correct":"Harshad"
         }
     ]
 }
