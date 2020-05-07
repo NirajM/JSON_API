@@ -56,7 +56,7 @@
   "Level_3_Users": ["a@ethosh.com","b@ethosh.com"],
   "Level_1_Ready": false,
   "Level_2_Ready": true,
-  "Level_3_Ready": false,
+  "Level_3_Ready": true,
   "Level_1_Name":"Know Your Company",
   "Level_2_Name":"Know Your Leaders",
   "Level_3_Name":"Know Your Customers"
