@@ -2,100 +2,36 @@
     "Questions":
     [
         {
-        "Question":"Who wants to take Charlize Theron to a dinner date?",
-        "Option1":"Kiran",
-        "Option2":"Sucheta",
-        "Option3":"Harshad",
-        "Option4":"Pushkar",
-        "Correct":"Harshad"
+        "Question":"Which of the following would be the result of a spinal lesion at the level of C7?",
+        "Option1":"a reduced brachioradialis reflex",
+        "Option2":"weakness of finger flexion",
+        "Option3":"loss of sensation over the lateral aspect of the arm",
+        "Option4":"winging of the scapula",
+        "Correct":"weakness of finger flexion"
         },
         {
-        "Question":"Who idolize Gautam Buddha?",
-        "Option1":"Rahul ",
-        "Option2":"Pushkar",
-        "Option3":"Kiran",
-        "Option4":"Harshad",
-        "Correct":"Harshad"
+        "Question":"Which of the following regarding the anatomy of the heart is true?",
+        "Option1":"The aortic valve is tricuspid.",
+        "Option2":"The ascending aorta is entirely outside the pericardial sac.",
+        "Option3":"The pulmonary trunk lies anterior to the ascending aorta.",
+        "Option4":"The right atrium is posterior to the left atrium.",
+        "Correct":"The aortic valve is tricuspid."
         },
         {
-        "Question":"What was the purpose of initials - rd and jd?",
-        "Option1":"File Extensions",
-        "Option2":"Cool Dudes",
-        "Option3":"Founders",
-        "Option4":"Famous Musicians",
-        "Correct":"File Extensions"
+        "Question":"Which ONE of the following would be expected in a third nerve palsy?",
+        "Option1":"Enophthalmos",
+        "Option2":"Constricted pupil",
+        "Option3":"Unreactive pupil to light",
+        "Option4":"Increased lacrimation",
+        "Correct":"Unreactive pupil to light"
         },
         {
-        "Question":"Who is Non-engineer among our team?",
-        "Option1":"Rahul",
-        "Option2":"Kiran",
-        "Option3":"Harshad",
-        "Option4":"Pushkar",
-        "Correct":"Pushkar"
-        },
-        {
-        "Question":"How many years did Rahul live in the USA?",
-        "Option1":"13",
-        "Option2":"11",
-        "Option3":"14",
-        "Option4":"10",
-        "Correct":"13"
-        },
-        {
-        "Question":"What is Pushkars additional skills that lets him judge people?",
-        "Option1":"Acting",
-        "Option2":"Directing",
-        "Option3":"NLP",
-        "Option4":"Dieting",
-        "Correct":"NLP"
-        },
-        {
-        "Question":"What does Kiran say more than any other word?",
-        "Option1":"You know",
-        "Option2":"Essentially",
-        "Option3":"Really",
-        "Option4":"Hmmm",
-        "Correct":"Essentially"
-        },
-        {
-        "Question":"What business unit does Kiran lead?",
-        "Option1":"Manufacturing",
-        "Option2":"Partnerships",
-        "Option3":"Healthcare",
-        "Option4":"LabTech",
-        "Correct":"Healthcare"
-        },
-        {
-        "Question":"What skill Harshad is not good at?",
-        "Option1":"Quality",
-        "Option2":"Creativity",
-        "Option3":"Communication",
-        "Option4":"Dancing",
-        "Correct":"Dancing"
-        },
-        {
-        "Question":"Who wants to roam age of dinosaurs?",
-        "Option1":"Rahul",
-        "Option2":"Sucheta",
-        "Option3":"Pushkar",
-        "Option4":"Kiran",
-        "Correct":"Kiran"
-        },
-        {
-        "Question":"What is Suchetas new role?",
-        "Option1":"HR",
-        "Option2":"Finance",
-        "Option3":"Operations",
-        "Option4":"Marketing Communication",
-        "Correct":"Marketing Communication"
-        },
-        {
-        "Question":"Who joined Ethosh between 2015 June to 2017 June?",
-        "Option1":"Pushkar",
-        "Option2":"Sucheta",
-        "Option3":"Harshad",
-        "Option4":"Kiran",
-        "Correct":"Harshad"
+        "Question":"Which of the following anatomical considerations is correct:",
+        "Option1":"central scotoma occurs early in papilloedema",
+        "Option2":"in cortical blindness pupillary reactions are abnormal",
+        "Option3":"opticokinetic nystagmus is found with bilateral infarction",
+        "Option4":"optic chiasm lesions characteristically produce a bitemporal hemianopia",
+        "Correct":"optic chiasm lesions characteristically produce a bitemporal hemianopia"
         }
     ]
 }
